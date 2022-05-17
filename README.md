@@ -1,3 +1,3 @@
-# palmaS_counting_system
-
-a machine learning approach for classification and counting of pest infection on forrage palm
+# palmaS_Professor
+    - Projeto de iniciação cientifica;
+    - Testes e Experimento realizados pelo professor Josenalde;
